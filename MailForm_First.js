@@ -1,3 +1,3 @@
 function frameClick() {
-  document.location.href = "MailForm_Secondのurl";
+  document.location.href = "https://b1019196.github.io/SA_Second/";
 }
